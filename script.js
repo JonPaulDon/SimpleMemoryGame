@@ -9,7 +9,7 @@ var pattern = [3, 2, 1, 2, 3, 3, 3,];
 var progress = 0;
 var gamePlaying = false;
 var tonePlaying = false;
-var volume = 0.5; //must be between 0.0 and 1.0
+var volume = 0.2; //must be between 0.0 and 1.0
 var guessCounter = 0;
 var guessesRemaining=3;
 function startGame() {
