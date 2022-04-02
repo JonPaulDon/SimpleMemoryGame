@@ -4,7 +4,7 @@ SimpleMemoryGame is a Light & Sound Memory game to apply for CodePath's SITE Pro
 
 Submitted by: JonPaulDongieux
 
-Time spent:7 hours spent in total
+Time spent: 7 hours spent in total
 
 Link to project: https://spotless-gelatinous-bassoon.glitch.me/
 
@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](https://imgur.com/DjWSovx)
+![](https://i.imgur.com/DjWSovx.gif)
 https://imgur.com/DjWSovx
 
 ![](gif2-link-here)
@@ -80,7 +80,7 @@ Some other features I would add would be a difficulty setting which would modify
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright Jon Paul Dongieux
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
